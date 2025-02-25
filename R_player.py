@@ -8,7 +8,7 @@ st.markdown('<p style="color:blue;">Feel your inner soul, just click and enjoy t
 
 #st.caption("Select a song to play ")
 
-songs = ["ohoho.mp3","osathi.mp3","tiger_zinda.mp3","roke_na_ruke_naina.mp3","She_Move_It_Like.mp3","Shona_Shona_Tony_Kakkar (1).mp3 "," Tarasti_Hai_Nigahen_Meri.mp3","Tera_Yaar_Hoon_Main.mp3","Teri_Aankhon_Mein_Darshan_Raval.mp3","Tu Hi Yaar Mera - Pati Patni Aur Woh.mp3"]
+songs = ["ohoho.mp3","osathi.mp3","tiger_zinda.mp3","She_Move_It_Like.mp3","Shona_Shona_Tony_Kakkar (1).mp3","Tarasti_Hai_Nigahen_Meri.mp3","Tera_Yaar_Hoon_Main.mp3","Teri_Aankhon_Mein_Darshan_Raval.mp3","Tu Hi Yaar Mera - Pati Patni Aur Woh.mp3"]
 
 selected_song = st.selectbox("Choos a song to play",songs)
 st.snow()
